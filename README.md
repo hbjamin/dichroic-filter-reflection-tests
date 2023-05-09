@@ -4,9 +4,9 @@ Measured the transmission and reflection coefficients of dichroic filters over t
 **Materials**
 + R7600-U200 PMTs (1x1 in)
 + 50/50 beam splitter (1x1x1 cm)
-+ dichroic filters
++ dichroic filters (dimensions?)
   + Knight
-    + 500 nm longpass
+    + 500 nm longpass - square
   + Edmund
     + 500 nm shortpass - square (best results)
     + 500 nm longpass - circular
