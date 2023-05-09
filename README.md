@@ -47,5 +47,5 @@ Measured the transmission and reflection coefficients of dichroic filters over t
     + transmitted and reflected light detected by PMTs
  
 **Notes**
-+ Transmission and reflection PMTs are always angled up at 7 degrees (including when normalized) to avoid reflections off of the glass PMT face returning into the setup. 
++ Transmission and reflection PMTs are always angled up at 15 degrees (including when normalized) to avoid reflections off of the glass PMT face returning into the setup. 
 
